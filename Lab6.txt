@@ -2,3 +2,6 @@ hi
 this is from github repo
 comment 1
 before clioning
+comment2
+after cloning
+created
