@@ -1,2 +1,4 @@
-this is the first comment in github
-  this is commented  after cloning
+hi
+this is from github repo
+comment 1
+before clioning
